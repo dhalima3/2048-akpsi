@@ -377,7 +377,7 @@ hr {
         font-size: 15px; } }
   .tile.tile-2048 .tile-inner {
     color: rgba(255,255,255,0);
-    background: url('../tile-sets/2048.png');
+    background: url('../tile-sets/2048.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
     font-size: 35px; }
