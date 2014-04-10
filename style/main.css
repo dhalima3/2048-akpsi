@@ -313,11 +313,13 @@ hr {
     z-index: 10;
     color: rgba(255,255,255,0);
     max-width: 100%;
-    height: auto
+    height: auto;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
     background: url('../tile-sets/2.jpg');
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); 
+    max-width: 100%;
+    height: auto;}
   .tile.tile-4 .tile-inner {
     background: url('../tile-sets/4.jpg');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
